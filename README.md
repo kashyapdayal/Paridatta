@@ -4,8 +4,11 @@ Paridatta is a robust Python-based utility designed to extract, analyze, and scr
 
 ## Features
 
+- **Advanced Metadata Spoofing:** Inject decoy/fake origin, GPS, and device information to disguise file history.
+- **Automated Watch Folders:** Set up a live active directory. Any file dragged into it is instantly scrubbed and saved safely in output folder automatically.
+- **Social Media Presets:** Choose targeted optimizations to safely share on platforms like Discord or Reddit.
 - **Metadata Extraction:** Identify and extract hidden metadata from media files.
-- **Metadata Scrubbing:** Safely remove sensitive information (v.g. EXIF, ID3) to protect privacy.
+- **Metadata Scrubbing:** Safely remove sensitive information (EXIF, ID3, etc.) to protect privacy.
 - **Batch Processing:** Process multiple files or entire directories simultaneously.
 - **Reporting:** Generate detailed reports of the metadata found and operations performed.
 - **Cross-Platform:** Includes installation scripts for both Windows (`install.ps1`) and Unix/Linux (`install.sh`).
