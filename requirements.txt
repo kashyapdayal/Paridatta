@@ -1,0 +1,10 @@
+# Paridatta Dependencies
+
+# Image metadata handling
+Pillow>=10.0.0
+
+# Document metadata handling
+PyPDF2>=3.0.0
+
+# GUI Framework
+PySide6>=6.5.0
